@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598929995138",
+    "firebase_url": "https://application-1d243.firebaseio.com",
+    "project_id": "application-1d243",
+    "storage_bucket": "application-1d243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598929995138:android:10dfae4688dc38c9458b9b",
+        "android_client_info": {
+          "package_name": "com.ixidev.simplenotepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598929995138-5e3ma0j5qcchbmuer9ou8ojo64j0up6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIwRCee7Vl2GAt3JP2LIi8rzcCSf4JtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598929995138-5e3ma0j5qcchbmuer9ou8ojo64j0up6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
